@@ -1,0 +1,26 @@
+[0.815s] Invoking command in '/home/nathan/ros2_ws/src/yuv422_to_rgb': PYTHONPATH=/home/nathan/ros2_ws/build/yuv422_to_rgb/prefix_override:/home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/yuv422_to_rgb build --build-base /home/nathan/ros2_ws/build/yuv422_to_rgb/build install --record /home/nathan/ros2_ws/build/yuv422_to_rgb/install.log --single-version-externally-managed
+[1.088s] running egg_info
+[1.088s] writing ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/PKG-INFO
+[1.089s] writing dependency_links to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/dependency_links.txt
+[1.089s] writing entry points to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/entry_points.txt
+[1.089s] writing requirements to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/requires.txt
+[1.089s] writing top-level names to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/top_level.txt
+[1.091s] reading manifest file '../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/SOURCES.txt'
+[1.092s] writing manifest file '../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/SOURCES.txt'
+[1.092s] running build
+[1.092s] running build_py
+[1.092s] copying yuv422_to_rgb/yuv422_to_rgb_node.py -> /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb
+[1.092s] running install
+[1.092s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.092s]   warnings.warn(
+[1.093s] running install_lib
+[1.093s] copying /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb/yuv422_to_rgb_node.py -> /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb
+[1.094s] byte-compiling /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb/yuv422_to_rgb_node.py to yuv422_to_rgb_node.cpython-310.pyc
+[1.094s] running install_data
+[1.095s] running install_egg_info
+[1.097s] removing '/home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb-0.0.0-py3.10.egg-info' (and everything under it)
+[1.097s] Copying ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info to /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb-0.0.0-py3.10.egg-info
+[1.098s] running install_scripts
+[1.121s] Installing yuv422_to_rgb_node script to /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/yuv422_to_rgb
+[1.122s] writing list of installed files to '/home/nathan/ros2_ws/build/yuv422_to_rgb/install.log'
+[1.154s] Invoked command in '/home/nathan/ros2_ws/src/yuv422_to_rgb' returned '0': PYTHONPATH=/home/nathan/ros2_ws/build/yuv422_to_rgb/prefix_override:/home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/yuv422_to_rgb build --build-base /home/nathan/ros2_ws/build/yuv422_to_rgb/build install --record /home/nathan/ros2_ws/build/yuv422_to_rgb/install.log --single-version-externally-managed

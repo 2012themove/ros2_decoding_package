@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info
+writing ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/PKG-INFO
+writing dependency_links to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/dependency_links.txt
+writing entry points to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/entry_points.txt
+writing requirements to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/requires.txt
+writing top-level names to ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/top_level.txt
+writing manifest file '../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/SOURCES.txt'
+reading manifest file '../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/SOURCES.txt'
+writing manifest file '../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nathan/ros2_ws/build/yuv422_to_rgb/build
+creating /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib
+creating /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb
+copying yuv422_to_rgb/__init__.py -> /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb
+copying yuv422_to_rgb/yuv422_to_rgb_node.py -> /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb
+copying /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb/__init__.py -> /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb
+copying /home/nathan/ros2_ws/build/yuv422_to_rgb/build/lib/yuv422_to_rgb/yuv422_to_rgb_node.py -> /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb
+byte-compiling /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb/yuv422_to_rgb_node.py to yuv422_to_rgb_node.cpython-310.pyc
+running install_data
+creating /home/nathan/ros2_ws/install/yuv422_to_rgb/share/ament_index
+creating /home/nathan/ros2_ws/install/yuv422_to_rgb/share/ament_index/resource_index
+creating /home/nathan/ros2_ws/install/yuv422_to_rgb/share/ament_index/resource_index/packages
+copying resource/yuv422_to_rgb -> /home/nathan/ros2_ws/install/yuv422_to_rgb/share/ament_index/resource_index/packages
+copying package.xml -> /home/nathan/ros2_ws/install/yuv422_to_rgb/share/yuv422_to_rgb
+running install_egg_info
+Copying ../../build/yuv422_to_rgb/yuv422_to_rgb.egg-info to /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/python3.10/site-packages/yuv422_to_rgb-0.0.0-py3.10.egg-info
+running install_scripts
+Installing yuv422_to_rgb_node script to /home/nathan/ros2_ws/install/yuv422_to_rgb/lib/yuv422_to_rgb
+writing list of installed files to '/home/nathan/ros2_ws/build/yuv422_to_rgb/install.log'

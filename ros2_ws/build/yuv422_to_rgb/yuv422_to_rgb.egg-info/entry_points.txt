@@ -1,0 +1,3 @@
+[console_scripts]
+yuv422_to_rgb_node = yuv422_to_rgb.yuv422_to_rgb_node:main
+

@@ -1,0 +1,6 @@
+source;share/yuv422_to_rgb/hook/pythonpath.ps1
+source;share/yuv422_to_rgb/hook/pythonpath.dsv
+source;share/yuv422_to_rgb/hook/pythonpath.sh
+source;share/yuv422_to_rgb/hook/ament_prefix_path.ps1
+source;share/yuv422_to_rgb/hook/ament_prefix_path.dsv
+source;share/yuv422_to_rgb/hook/ament_prefix_path.sh
